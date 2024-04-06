@@ -23,3 +23,6 @@ pip install pandas
 pip install matplotlib
 ```
 - 4 Executar o código financiamentos.py
+```bash
+python financiamentos.py
+```
